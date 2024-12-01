@@ -27,17 +27,18 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 ## 📂 **Highlight Projects**
 Here are some projects that reflect my skills and passion for development:
 
-### 🌟 [Career Hub](https://career-hubs-safin33221.surge.sh/)
-An intuitive job portal to make job hunting a breeze.
 
-### 🌟 [Peddy](https://sensational-piroshki-4eb1e3.netlify.app/)
-A pet adoption and management platform with seamless data handling.
+### 🌟 [Career Counseling](https://career-counseling-safin33221.netlify.app)
+A modern and responsive Career Counseling website.
+
+### 🌟 [Gadget Heaven](https://safin33221-assignment-8.netlify.app/)
+A Gadget Heaven platform.
 
 ### 🌟 [The Dragon News](https://github.com/safin33221/The-Dragon-News)
 A dynamic news platform delivering the latest articles in style.
 
-### 🌟 [G3 Architects](https://safin33221.github.io/g3-architechs-responsive-web/)
-A modern and responsive architectural firm's website.
+### 🌟 [Career Hub](https://career-hubs-safin33221.surge.sh/)
+An intuitive job portal to make job hunting a breeze.
 
 <div align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Project Animation">
@@ -105,7 +106,7 @@ We welcome feedback and contributions! If you find any issues or have suggestion
 ## 📞 **Reach Out**
 - 📧 **Email:** [safin33221@gmail.com](mailto:safin33221@gmail.com)  
 - 🌐 **Portfolio:** (Coming Soon!)  
-- 💼 **LinkedIn:** (Your LinkedIn link if available)  
+- 💼 **LinkedIn:** (www.linkedin.com/in/safayet-hossan-safin)  
 
 ---
 
