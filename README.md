@@ -30,13 +30,11 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
+  <a  href="https://www.facebook.com/safin.2360" target='_blank''><img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <a  href="https://www.linkedin.com/in/safayet-hossan-safin" target='_blank'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <a  href="https://www.instagram.com/safin2nt4/" target='_blank'><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  /></a>
 </div>
 
 ###
@@ -137,9 +135,12 @@ Check out more awesome work in my [repositories](https://github.com/safin33221?t
 ---
 
 ## 🌱 **Currently Exploring**
-- **TypeScript** for safer and more scalable applications.  
-- **Next.js** to create blazing-fast, server-side rendered web apps.  
-- **Cloud Integration** for deployment and scalability.  
+- 🧑‍🎨 **Advanced CSS Techniques**: Crafting pixel-perfect designs with CSS Grid, Flexbox, and responsive layouts.  
+- 🎨 **UI/UX Design Principles**: Enhancing user experience by focusing on usability, accessibility, and aesthetics.  
+- ⚛️ **React Ecosystem**: Exploring advanced React concepts like hooks, performance optimization, and animation libraries (Framer Motion).  
+- 🛠️ **Frontend Tooling**: Improving workflow efficiency with tools like Webpack, Vite, and PostCSS.  
+- 🔗 **API Integration**: Building dynamic, data-driven apps by consuming REST and GraphQL APIs.  
+- 🌐 **Web Security**: Learning best practices to secure frontend applications against common vulnerabilities.  
 
 ---
 
