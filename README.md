@@ -23,16 +23,41 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 
 ---
 
+###
+
+<p align="left">Reach Out to me</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+</div>
+
+###
+
+---
+
 ## 🔭 **What I’m Working On**
-- 🌐 Developing innovative **React.js** projects and perfecting UI/UX designs.  
-- 🛠️ Creating full-stack applications with **Node.js** and **MongoDB**.  
-- 📖 Learning **TypeScript** to bring more structure and safety to my code.  
+- 🚀 Enhancing my skills in building **responsive, user-friendly web interfaces**.  
+- 🖌️ Exploring **modern design trends** to create visually appealing websites.  
+- 🔗 Integrating **dynamic data** into frontend applications using REST APIs.
+- 📚 Learning **web security essentials** to create more secure frontend applications.  
+- 💡 Experimenting with advanced frontend concepts, including **animations, transitions, and state management** using React.  
 
 ---
 
 ## 📂 **Highlight Projects**
 Here are some projects that reflect my skills and passion for development:
 
+
+### 🌟 [Master Chef Restaurant](https://restaurant-management-caeb2.web.app/)
+The Restaurant Management project is designed to streamline and manage restaurant operations effectively. 
 
 ### 🌟 [Career Counseling](https://career-counseling-safin33221.netlify.app)
 A modern and responsive Career Counseling website.
