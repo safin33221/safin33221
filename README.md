@@ -1,3 +1,9 @@
+<div align="left">
+  <img height="300" src="https://i.ibb.co.com/dPp2zvj/cover.jpg"  />
+</div>
+
+###
+
 # 👋 Hi, I'm Safin!  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Web+Developer+%7C+Problem+Solver;Passionate+Learner+%7C+Code+Lover;Turning+Ideas+Into+Reality+%F0%9F%8C%90)  
 
@@ -40,26 +46,56 @@ A dynamic news platform delivering the latest articles in style.
 ### 🌟 [Career Hub](https://career-hubs-safin33221.surge.sh/)
 An intuitive job portal to make job hunting a breeze.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Project Animation">
-</div>
-
 Check out more awesome work in my [repositories](https://github.com/safin33221?tab=repositories)! 🎉  
 
 ---
 
 ## 🛠️ **Skills & Tools**
 ### **Frontend Development:**
-- ⚛️ React.js, HTML5, CSS3, JavaScript.
-- 🎨 Tailwind CSS, Bootstrap, Responsive Web Design.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  
+</div>
+
+###
 
 ### **Backend Development:**
-- 🌐 Node.js, Express.js, MongoDB.
-- 🔗 RESTful APIs, Authentication & Authorization.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
 ### **Other Tools:**
-- 🛠️ Git, GitHub, VS Code, Figma, Netlify, Surge.sh.
-- 📦 npm, Postman, and DevTools.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Tools Animation">
@@ -105,8 +141,8 @@ We welcome feedback and contributions! If you find any issues or have suggestion
 
 ## 📞 **Reach Out**
 - 📧 **Email:** [safin33221@gmail.com](mailto:safin33221@gmail.com)  
-- 🌐 **Portfolio:** (Coming Soon!)  
-- 💼 **LinkedIn:** (www.linkedin.com/in/safayet-hossan-safin)  
+- 🌐 **Portfolio:** https://safayet-hossan.netlify.app
+- 💼 **LinkedIn:** www.linkedin.com/in/safayet-hossan-safin  
 
 ---
 
