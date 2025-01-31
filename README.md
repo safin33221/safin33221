@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/fdF4bbbg/Safayet-Hossan-Safin-1.png"  />
+  <img src="https://i.ibb.co.com/fdF4bbbg/Safayet-Hossan-Safin-1.png"  />
 </div>
 
 ###
