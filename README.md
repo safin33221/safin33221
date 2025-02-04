@@ -10,6 +10,18 @@
 Welcome to my GitHub profile! I'm a passionate **web developer** with a knack for building engaging, efficient, and user-centric digital solutions. Whether it's crafting elegant frontends, developing robust backends, or exploring cutting-edge technologies, I’m always up for a challenge! 🚀  
 
 ---
+<h2 align="left">Current Stats</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=safin33221&theme=dark&hide_border=true&border_radius=4.4&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri&card_height=172" alt="GitHub Streak" /></a>
+</div>
+
+###
+---
 
 ## 🖥️ **About Me**
 - 🌟 **Mission:** Turning complex problems into simple, beautiful, and intuitive web solutions.  
@@ -73,55 +85,53 @@ Check out more awesome work in my [repositories](https://github.com/safin33221?t
 
 ---
 
-## 🛠️ **Skills & Tools**
-### **Frontend Development:**
-<div align="left">
+<br clear="both">
+
+<h2 align="center">🛠 Language and tools</h2>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  
-</div>
-
-###
-
-### **Backend Development:**
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-### **Other Tools:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 
+###
+
+
+
+
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Tools Animation">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="300" alt="Tools Animation">
 </div>
 
 ---
@@ -167,7 +177,7 @@ We welcome feedback and contributions! If you find any issues or have suggestion
 
 ## 📞 **Reach Out**
 - 📧 **Email:** [safin33221@gmail.com](mailto:safin33221@gmail.com)  
-- 🌐 **Portfolio:** https://safayet-hossan.netlify.app
+- 🌐 **Portfolio:** https://safin3.netlify.app
 - 💼 **LinkedIn:** www.linkedin.com/in/safayet-hossan-safin  
 
 ---
