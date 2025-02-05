@@ -9,48 +9,48 @@
 
 Welcome to my GitHub profile! I'm a passionate **web developer** with a knack for building engaging, efficient, and user-centric digital solutions. Whether it's crafting elegant frontends, developing robust backends, or exploring cutting-edge technologies, I’m always up for a challenge! 🚀  
 
----
-<h2 align="left">Current Stats</h2>
 
-###
 
-<br clear="both">
+
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=safin33221&theme=dark&hide_border=true&border_radius=4.4&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri&card_height=172" alt="GitHub Streak" /></a>
-</div>
-
-###
----
-
-## 🖥️ **About Me**
-
-
-###
-
-<p align="left">Hi, I'm Safayet Hossan, a dedicated Frontend Developer with a passion for crafting intuitive and visually engaging user experiences. With expertise in React, JavaScript, HTML, and CSS, I specialize in building responsive and dynamic interfaces that bring ideas to life. I strive to create designs that are not only functional but also a delight to use, ensuring every interaction is seamless and impactful."</p>
-
-###
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Coding Animation">
 </div>
 
 ---
 
 ###
 
-<p align="left">Reach Out to me</p>
+<h4 align="left">Reach Out to me</h4>
 
 ###
 
-<div align="left">
-  <a  href="https://www.facebook.com/safin.2360" target='_blank''><img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  /></a>
+<div align="center">
+  <a  href="https://www.facebook.com/safin.2360" target='_blank''><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /></a>
   <img width="12" />
-  <a  href="https://www.linkedin.com/in/safayet-hossan-safin" target='_blank'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
+  <a  href="https://www.linkedin.com/in/safayet-hossan-safin" target='_blank'><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <img width="12" />
-  <a  href="https://x.com/safin33221" target='_blank'><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="instagram logo"  /></a>
+  <a  href="https://x.com/safin33221" target='_blank'><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
   
+</div>
+
+
+
+###
+
+
+
+###
+
+---
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safin33221&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=safin33221&theme=dark&hide_border=true" alt="GitHub Streak" height="150"  style="margin:0px 20px"/></a>
 </div>
 
 ###
@@ -66,8 +66,8 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 
 ---
 
-## 📂 **Highlight Projects**
-Here are some projects that reflect my skills and passion for development:
+### 📂 **Highlight Projects**
+Here are some projects that reflect my skills and passion for development
 
 ### 🌟 [Health Rex Store](https://healthrexstore.web.app)
 HealthRex Store is an online medicine and healthcare product e-commerce platform.
@@ -80,23 +80,17 @@ A modern and responsive Career Counseling website.
 ### 🌟 [Gadget Heaven](https://safin33221-assignment-8.netlify.app/)
 A Gadget Heaven platform.
 
-### 🌟 [The Dragon News](https://github.com/safin33221/The-Dragon-News)
-A dynamic news platform delivering the latest articles in style.
-
-### 🌟 [Career Hub](https://career-hubs-safin33221.surge.sh/)
-An intuitive job portal to make job hunting a breeze.
 
 Check out more awesome work in my [repositories](https://github.com/safin33221?tab=repositories)! 🎉  
 
----
-
+##
 <br clear="both">
 
 <br clear="both">
 
 <h2 align="center">🛠 Language and tools</h2>
 
-###
+
 
 <p align="center">Frontend</p>
 
@@ -152,7 +146,7 @@ Check out more awesome work in my [repositories](https://github.com/safin33221?t
 
 ###
 
----
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="300" alt="Tools Animation">
@@ -174,7 +168,7 @@ Check out more awesome work in my [repositories](https://github.com/safin33221?t
 - ⚛️ **React Ecosystem**: Exploring advanced React concepts like hooks, performance optimization, and animation libraries (Framer Motion).  
 - 🛠️ **Frontend Tooling**: Improving workflow efficiency with tools like Webpack, Vite, and PostCSS.  
 - 🔗 **API Integration**: Building dynamic, data-driven apps by consuming REST and GraphQL APIs.  
-- 🌐 **Web Security**: Learning best practices to secure frontend applications against common vulnerabilities.  
+ 
 
 ---
 
@@ -189,7 +183,7 @@ Check out more awesome work in my [repositories](https://github.com/safin33221?t
 I’m open to collaborating on exciting projects, contributing to open-source, or learning from like-minded developers. Let’s connect and build something incredible together! 💡  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Collaboration Animation">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Collaboration Animation">
 </div>
 
 ---
