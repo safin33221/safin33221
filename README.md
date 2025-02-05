@@ -24,10 +24,13 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 ---
 
 ## 🖥️ **About Me**
-- 🌟 **Mission:** Turning complex problems into simple, beautiful, and intuitive web solutions.  
-- 💡 **Core Values:** Creativity, efficiency, and continuous learning.  
-- 🌍 **Based in:** Bangladesh.  
-- 📈 **Always striving to improve:** From better code to better coffee brewing skills.  
+
+
+###
+
+<p align="left">Hi, I'm Safayet Hossan, a dedicated Frontend Developer with a passion for crafting intuitive and visually engaging user experiences. With expertise in React, JavaScript, HTML, and CSS, I specialize in building responsive and dynamic interfaces that bring ideas to life. I strive to create designs that are not only functional but also a delight to use, ensuring every interaction is seamless and impactful."</p>
+
+###
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
@@ -46,7 +49,8 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
   <img width="12" />
   <a  href="https://www.linkedin.com/in/safayet-hossan-safin" target='_blank'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <a  href="https://www.instagram.com/safin2nt4/" target='_blank'><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  /></a>
+  <a  href="https://x.com/safin33221" target='_blank'><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="instagram logo"  /></a>
+  
 </div>
 
 ###
@@ -57,15 +61,16 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 - 🚀 Enhancing my skills in building **responsive, user-friendly web interfaces**.  
 - 🖌️ Exploring **modern design trends** to create visually appealing websites.  
 - 🔗 Integrating **dynamic data** into frontend applications using REST APIs.
-- 📚 Learning **web security essentials** to create more secure frontend applications.  
 - 💡 Experimenting with advanced frontend concepts, including **animations, transitions, and state management** using React.  
+- 🚀 Planning to dive into **Full-Stack Development**.
 
 ---
 
 ## 📂 **Highlight Projects**
 Here are some projects that reflect my skills and passion for development:
 
-
+### 🌟 [Health Rex Store](https://healthrexstore.web.app)
+HealthRex Store is an online medicine and healthcare product e-commerce platform.
 ### 🌟 [Master Chef Restaurant](https://restaurant-management-caeb2.web.app/)
 The Restaurant Management project is designed to streamline and manage restaurant operations effectively. 
 
