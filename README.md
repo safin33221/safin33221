@@ -199,8 +199,8 @@ We welcome feedback and contributions! If you find any issues or have suggestion
 
 ## 📞 **Reach Out**
 - 📧 **Email:** [safin33221@gmail.com](mailto:safin33221@gmail.com)  
-- 🌐 **Portfolio:** https://safin3.netlify.app
-- 💼 **LinkedIn:** www.linkedin.com/in/safayet-hossan-safin  
+- 🌐 **Portfolio:** [safayet-hossan.netlify.app](https://safayet-hossan.netlify.app)
+- 💼 **LinkedIn:** [Safayet Hossan Safin](www.linkedin.com/in/safayet-hossan-safin)
 
 ---
 
