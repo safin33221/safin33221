@@ -73,16 +73,19 @@ Welcome to my GitHub profile! I'm a passionate **web developer** with a knack fo
 ### 📂 **Highlight Projects**
 Here are some projects that reflect my skills and passion for development
 
+### 🌟 [Global Thought – AI-Powered Blogging & Content Intelligence](https://global-thought.vercel.app)
+A cutting-edge blogging platform that empowers writers to create high-quality, SEO-optimized content using AI assistance, real-time insights, and a modern editor tailored for thoughtful publishing and global impact.
+
+
+### 🌟 [TastyRide - Smart Food Delivery Platform](https://tastyride-cd1a3.web.app/)
+A smart, feature-rich food delivery web application offering real-time order tracking, multi-language support, dynamic promotions, and subscription-based restaurant profiles to ensure an engaging user experience
+
 ### 🌟 [Health Rex Store](https://healthrexstore.web.app)
 HealthRex Store is an online medicine and healthcare product e-commerce platform.
+
 ### 🌟 [Master Chef Restaurant](https://restaurant-management-caeb2.web.app/)
 The Restaurant Management project is designed to streamline and manage restaurant operations effectively. 
 
-### 🌟 [Career Counseling](https://career-counseling-safin33221.netlify.app)
-A modern and responsive Career Counseling website.
-
-### 🌟 [Gadget Heaven](https://safin33221-assignment-8.netlify.app/)
-A Gadget Heaven platform.
 
 
 Check out more awesome work in my [repositories](https://github.com/safin33221?tab=repositories)! 🎉  
